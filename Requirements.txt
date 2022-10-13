@@ -1,6 +1,6 @@
 streamlit == 1.13.0
 pandas == 1.4.2
-plotly-express == 0.4.1
+plotly- == 5.6.0
 sodapy == 2.2.0
 requests == 2.28.1
 folium == 0.12.1.post1
