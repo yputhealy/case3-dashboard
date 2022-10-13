@@ -5,4 +5,4 @@ sodapy == 2.2.0
 requests == 2.28.1
 folium == 0.12.1.post1
 matplotlib == 3.5.1
-plotly-express == 0.4.1
+plotly-express >= 0.4.1
